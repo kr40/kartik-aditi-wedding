@@ -389,7 +389,7 @@ $(document).ready(function () {
 		$("#events-carousel").owlCarousel({
 			items: 2,
 			itemsDesktopSmall: [979, 2],
-			autoPlay: 2000,
+			autoPlay: 6000,
 			stopOnHover: true,
 			pagination: true,
 			navigation: false,
