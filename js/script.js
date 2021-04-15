@@ -1,13 +1,13 @@
 "use strict";
 
-/*============================== 
+/*==============================
 	- Template Name: FOREVER - Responsive HTML Wedding Template
 	- Author: DoubleEight
 	- Version: 1.0
 	- Website: www.dethemes.com
 ================================= */
 
-/*---------------------- 
+/*----------------------
 	Script Guide
 ------------------------
 01. BROWSER AGENT FUNCTION
@@ -20,7 +20,7 @@
 	01.7 Check IE10
 	01.8 Check IE9
 	01.9 Check Safari/Chrome Mac
-	
+
 02. FULLSCREEN CLASS
 
 03. HIDDEN ALL ANIMATION CLASS
@@ -34,7 +34,7 @@
 	04.4 Waypoint Sticky Menu Icon (Sidebar Version)
 	04.5 Waypoint Animate CSS
 	04.6 Stellar Parallax
-	
+
 05. PRELOADER HEART ANIMATION (IE10 / 11)
 
 06. BIND TOUCH FOR PHOTO ITEM (Mobile / Tablet)
@@ -60,7 +60,7 @@
 	13.1 Magnific Zoom
 	13.2 Magnific Zoom Gallery
 	13.3 Magnific Ajax
-	
+
 14. DISALBE TRANSITION (Mobile / Tablet)
 
 15. AUDIO
@@ -70,7 +70,7 @@
 16. VIDEO CONTROL
 	16.1 Hide Video Control (Mobile / Tablet)
 	16.2 Play Pause Video
-	
+
 */
 
 $(document).ready(function () {
