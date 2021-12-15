@@ -1,1 +1,3 @@
-# Kartik and Aditi's wedding website
+# Aditi Weds Kartik
+
+A wedding inbitation website I made for my own wedding.
